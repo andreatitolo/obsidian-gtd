@@ -7,7 +7,7 @@ editor_options:
 # Obsidian Project Management Starter Kit for Academic Purposes
 
 This is a personal take on Douani's Obsidian-gtd, adapted for my own
-academic purposes.
+academic purposes. 
 
 # Features
 
